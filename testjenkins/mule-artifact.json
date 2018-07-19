@@ -1,0 +1,18 @@
+{
+  "configs": [
+    "testjenkins.xml"
+  ],
+  "secureProperties": [],
+  "redeploymentEnabled": true,
+  "name": "testjenkins",
+  "minMuleVersion": "4.1.2",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {}
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}
